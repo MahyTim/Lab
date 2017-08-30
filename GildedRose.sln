@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GildedRose", "GildedRose\GildedRose.csproj", "{6FBF265D-4ECB-4A3D-9535-FFA084A0870E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parrot", "Parrot\Parrot.csproj", "{1C8906CA-5E03-447E-B4D3-3115AF19D433}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FBF265D-4ECB-4A3D-9535-FFA084A0870E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FBF265D-4ECB-4A3D-9535-FFA084A0870E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FBF265D-4ECB-4A3D-9535-FFA084A0870E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FBF265D-4ECB-4A3D-9535-FFA084A0870E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8906CA-5E03-447E-B4D3-3115AF19D433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8906CA-5E03-447E-B4D3-3115AF19D433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8906CA-5E03-447E-B4D3-3115AF19D433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8906CA-5E03-447E-B4D3-3115AF19D433}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {061CD3B5-CAAA-4470-A0E8-E836C3CE32C3}
+	EndGlobalSection
+EndGlobal
